@@ -1,0 +1,44 @@
+Friendship 7
+John Glenn
+Glenn, John
+1962	
+3 orbits
+On February 20, 1962, John H. Glenn, Jr., became the first American to orbit Earth. An Atlas launch vehicle propelled a Mercury spacecraft into Earth orbit and enabled Glenn to circle Earth three times. The flight lasted a total of 4 hours, 55 minutes, and 23 seconds before the Friendship 7 spacecraft splashed down in the ocean. Most major systems worked smoothly, and the flight was a great success as an engineering feat.
+https://en.wikipedia.org/wiki/Mercury-Atlas_6
+							
+Gemini 4
+James McDivitt
+McDivitt, James
+White, Ed
+1965
+4 days
+Gemini 4 would be the first multi-day space flight by the United States, designed to show that it was possible for humans to remain in space for extended lengths of time. The four-day, 66-orbit flight would approach but not break the five-day record set by the Soviet Vostok 5 in June 1963. Subsequent Gemini flights would be longer, to prove endurance exceeding the time required to fly to the Moon and back.
+A second objective was the first American extra-vehicular activity (EVA), known popularly as a "space walk". The first space walk had already been performed by Soviet Alexei Leonov on Voskhod 2 in March 1965. NASA moved up the spacewalk from the original schedule, to demonstrate that the US was gaining on the early lead taken by the Soviets in what was known as the Space Race. As late as 11 days before the scheduled June 3 launch, newspapers were reporting that NASA was saying it "had not yet determined whether White would be the first American astronaut to expose himself to the elements of space," and that "A decision might not be made until a day or two before launching."
+A third objective was for Gemini 4 to attempt the first space rendezvous, flMying in formation with the spent second stage of its Titan II launch vehicle.
+https://en.wikipedia.org/wiki/Gemini_4						
+							
+Apollo 11
+Neil Armstrong
+Armstrong, Neil
+Aldrin, Edwin "Buzz"					
+Collins, Michael						
+1969
+8 days
+Apollo 11 was the spaceflight that first landed humans on the Moon. Commander Neil Armstrong and lunar module pilot Buzz Aldrin formed the American crew that landed the Apollo Lunar Module Eagle on July 20, 1969, at 20:17 UTC. Armstrong became the first person to step onto the lunar surface six hours and 39 minutes later on July 21 at 02:56 UTC; Aldrin joined him 19 minutes later. They spent about two and a quarter hours together outside the spacecraft, and they collected 47.5 pounds (21.5 kg) of lunar material to bring back to Earth. Command module pilot Michael Collins flew the command module Columbia alone in lunar orbit while they were on the Moon's surface. Armstrong and Aldrin spent 21 hours 31 minutes on the lunar surface at a site they named Tranquility Base before lifting off to rejoin Columbia in lunar orbit.
+https://en.wikipedia.org/wiki/Apollo_11					
+							
+							
+Challenger
+Francis S. Scobee
+Jarvis, Gregory
+McAuliffe, Christa
+McNair, Ronald					
+Onizuka, Ellison					
+Resnik, Judith					
+Scobee, Francis					
+Smith, Michael					
+1986
+73 seconds
+STS-51-L was the 25th mission of the United States Space Shuttle program, the program to carry out routine transportation for Earth-to-orbit crew and cargo; as well as the final flight of Space Shuttle Challenger.
+Planned as the first Teacher in Space Project in addition to observing Halley's Comet for six days, the mission never achieved orbit; a structural failure during its ascent phase 73 seconds after launch from Kennedy Space Center Launch Complex 39 on January 28, 1986, killed all seven crew members.
+https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster
